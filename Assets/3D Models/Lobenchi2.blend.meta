@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: e991e859b0823804183d85bed6998b87
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Armature.004
+    100010: Armature.005
+    100012: Bone
+    100014: Bone 1
+    100016: Bone 2
+    100018: Bone 3
+    100020: Bone 4
+    100022: Bone 5
+    100024: Bone_end
+    100026: Bone_end 1
+    100028: Bone_end 2
+    100030: Bone_end 3
+    100032: Bone_end 4
+    100034: Bone_end 5
+    100036: cabecita
+    100038: Camera
+    100040: Colita
+    100042: Cuerpecito
+    100044: Light
+    100046: //RootNode
+    100048: patita_dd
+    100050: patita_di
+    100052: patita_td
+    100054: patita_ti
+    100056: Bone.001
+    100058: Bone.001_end
+    100060: Bone.002
+    100062: Bone.002_end
+    100064: Bone.003
+    100066: Bone.003_end
+    100068: Bone.004
+    100070: Bone.004_end
+    100072: Bone.005
+    100074: Bone.005_end
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Armature.004
+    400010: Armature.005
+    400012: Bone
+    400014: Bone 1
+    400016: Bone 2
+    400018: Bone 3
+    400020: Bone 4
+    400022: Bone 5
+    400024: Bone_end
+    400026: Bone_end 1
+    400028: Bone_end 2
+    400030: Bone_end 3
+    400032: Bone_end 4
+    400034: Bone_end 5
+    400036: cabecita
+    400038: Camera
+    400040: Colita
+    400042: Cuerpecito
+    400044: Light
+    400046: //RootNode
+    400048: patita_dd
+    400050: patita_di
+    400052: patita_td
+    400054: patita_ti
+    400056: Bone.001
+    400058: Bone.001_end
+    400060: Bone.002
+    400062: Bone.002_end
+    400064: Bone.003
+    400066: Bone.003_end
+    400068: Bone.004
+    400070: Bone.004_end
+    400072: Bone.005
+    400074: Bone.005_end
+    2000000: Camera
+    2100000: Pechito_mat
+    2100002: Blanquito_Mat
+    2100004: Cabecita_mat
+    2300000: cabecita
+    3300000: cabecita
+    4300000: Cuerpecito
+    4300002: patita_dd
+    4300004: patita_di
+    4300006: patita_ti
+    4300008: patita_td
+    4300010: cabecita
+    4300012: Colita
+    7400000: Armature|Armature.001Action
+    7400002: Armature|Armature.002Action
+    7400004: Armature|Armature.003Action
+    7400006: Armature|Armature.004Action
+    7400008: Armature|Armature.005Action
+    7400010: Armature|ArmatureAction
+    7400012: Armature.001|Armature.001Action
+    7400014: Armature.001|Armature.002Action
+    7400016: Armature.001|Armature.003Action
+    7400018: Armature.001|Armature.004Action
+    7400020: Armature.001|Armature.005Action
+    7400022: Armature.001|ArmatureAction
+    7400024: Armature.003|Armature.001Action
+    7400026: Armature.003|Armature.002Action
+    7400028: Armature.003|Armature.003Action
+    7400030: Armature.003|Armature.004Action
+    7400032: Armature.003|Armature.005Action
+    7400034: Armature.003|ArmatureAction
+    7400036: Armature.002|Armature.001Action
+    7400038: Armature.002|Armature.002Action
+    7400040: Armature.002|Armature.003Action
+    7400042: Armature.002|Armature.004Action
+    7400044: Armature.002|Armature.005Action
+    7400046: Armature.002|ArmatureAction
+    7400048: Armature.004|Armature.001Action
+    7400050: Armature.004|Armature.002Action
+    7400052: Armature.004|Armature.003Action
+    7400054: Armature.004|Armature.004Action
+    7400056: Armature.004|Armature.005Action
+    7400058: Armature.004|ArmatureAction
+    7400060: Armature.005|Armature.001Action
+    7400062: Armature.005|Armature.002Action
+    7400064: Armature.005|Armature.003Action
+    7400066: Armature.005|Armature.004Action
+    7400068: Armature.005|Armature.005Action
+    7400070: Armature.005|ArmatureAction
+    9500000: //RootNode
+    10800000: Light
+    13700000: Colita
+    13700002: Cuerpecito
+    13700004: patita_dd
+    13700006: patita_di
+    13700008: patita_td
+    13700010: patita_ti
+    13700012: cabecita
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

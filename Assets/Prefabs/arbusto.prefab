@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6108037692441245552}
   - component: {fileID: 6108037692440475472}
   - component: {fileID: 6108037692439475600}
+  - component: {fileID: 3197310693485412533}
   m_Layer: 0
   m_Name: arbusto
   m_TagString: Untagged
@@ -57,7 +58,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8e0661b5af07817438305474ce8d4ae8, type: 3}
+  - {fileID: 2100000, guid: 3cc1f246ae4cfc84e882096a08ff0e17, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -77,3 +78,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3197310693485412533
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6108037692441733968}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.6784904, y: 1.3332142, z: 1.194388}
+  m_Center: {x: 0.124305606, y: -0.0020276906, z: 0.08909771}

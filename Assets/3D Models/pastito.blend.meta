@@ -4,11 +4,21 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Lado A
+    100004: Lado B
     400000: //RootNode
+    400002: Lado A
+    400004: Lado B
     2100000: Material
     2300000: //RootNode
+    2300002: Lado A
+    2300004: Lado B
     3300000: //RootNode
+    3300002: Lado A
+    3300004: Lado B
     4300000: Plane
+    4300002: Lado A
+    4300004: Lado B
   externalObjects: {}
   materials:
     importMaterials: 1

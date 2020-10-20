@@ -1,26 +1,48 @@
 fileFormatVersion: 2
-guid: c393a2d268ae8ef429ffc15d76ea53f6
+guid: b5bda0cab77ee4c449cdb17d968730d6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: Empty
     100002: Empty.001
     100004: GatoPera
-    100006: //RootNode
-    100008: Ojos
+    100006: GatoPera2
+    100008: //RootNode
+    100010: Ojos
+    100012: Ojillos-GatoPera2
+    100014: Armature
+    100016: Bone
+    100018: Bone_end
     400000: Empty
     400002: Empty.001
     400004: GatoPera
-    400006: //RootNode
-    400008: Ojos
+    400006: GatoPera2
+    400008: //RootNode
+    400010: Ojos
+    400012: Ojillos-GatoPera2
+    400014: Armature
+    400016: Bone
+    400018: Bone_end
     2100000: GatoPeraMat
     2100002: ojitos
+    2100004: Material
+    2100006: Gato_mat
+    2100008: OjitosGato_mat
     2300000: GatoPera
-    2300002: Ojos
+    2300002: GatoPera2
+    2300004: Ojos
+    2300006: Ojillos-GatoPera2
     3300000: GatoPera
-    3300002: Ojos
+    3300002: GatoPera2
+    3300004: Ojos
+    3300006: Ojillos-GatoPera2
     4300000: GatoPera
     4300002: Ojos
+    4300004: GatoPera2
+    4300006: Ojillos-GatoPera2
+    7400000: GatitoAnim
+    9500000: //RootNode
+    13700000: GatoPera2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -41,14 +63,42 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: GatitoAnim
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -74,7 +124,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -98,10 +148,10 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
