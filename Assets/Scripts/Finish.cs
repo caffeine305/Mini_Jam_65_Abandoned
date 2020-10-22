@@ -6,11 +6,14 @@ using UnityEngine.SceneManagement;
 public class Finish : MonoBehaviour
 {
     public GameObject banner;
+    public Transform camera;
     private Vector3 bannerPos;
+    private Quaternion bannerRot;
 
     void Start()
     {
-        bannerPos = new Vector3(1.5f, 17.0f, -14.0f);
+        bannerPos = new Vector3(0.0f, 3.0f, 0.0f);
+        bannerRot = Quaternion.Euler(58, 58, 30);
     }
 
     IEnumerator ChangeScene()
@@ -23,9 +26,16 @@ public class Finish : MonoBehaviour
     {
         if(col.tag == "Player")
         {
-            Instantiate(banner,bannerPos,transform.rotation);
+            Instantiate(banner,transform.position+bannerPos,bannerRot);  
             StartCoroutine(ChangeScene());
         }
     }
+
+    void LateUpdate()
+    {
+        banner.transform.LookAt(banner.transform.position + camera.forward);
+    }
+
+
 
 }

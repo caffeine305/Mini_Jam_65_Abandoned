@@ -46,6 +46,7 @@ public class GameController : MonoBehaviour
             if(winState)
             {
                 Debug.Log("Complete!");
+                
             }
 
         }
