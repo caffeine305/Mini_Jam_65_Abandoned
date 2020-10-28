@@ -17,8 +17,7 @@ public class Camara : MonoBehaviour
         
         if(Input.GetKey("j"))
         {
-            angle = (0.5f) * speed * Time.deltaTime;
-            angle = angle*(-1);
+            angle = (-0.5f) * speed * Time.deltaTime;
         }   
         if(Input.GetKey("k"))
         {

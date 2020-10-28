@@ -1,13 +1,20 @@
 Win64
 PlayerPath?
-C:/Users/Ricardo/Documents/GitHub/Mini_Jam_65_Abandoned/Build_v1/MiniJam65.exe
+C:/Users/Ricardo/Documents/GitHub/Mini_Jam_65_Abandoned/Final_Build/An_Abandoned_Cat.exe
 SceneListBegin?
 Assets/Scenes/Title.unity
+Assets/Scenes/Controllers.unity
 Assets/Scenes/Story.unity
 Assets/Scenes/Scene1.unity
+Assets/Scenes/Scene2.unity
+Assets/Scenes/Scene3.unity
+Assets/Scenes/Scene4.unity
+Assets/Scenes/Scene5.unity
 Assets/Scenes/GameOver.unity
 Assets/Scenes/End.unity
+Assets/Scenes/Credits.unity
 SceneListEnd?
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.ReturnTitle
 3c08375166df118bd1801438fc36b92f Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 77c21079ace8d76ce6e941d3dabbfe6e Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
 dea88947c74167e7493deafe69b45277 Assembly-CSharp.dll:.movimiento
@@ -89,6 +96,8 @@ aa165095bcf0f4d99594ea33df01c81b UnityEngine.UI.dll:UnityEngine.UI.Slider
 0fd6822f6177297bd0eb4d83cc7a9030 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+4ca1ad16d969a53edf5d4f1affe413b9 Assembly-CSharp.dll:.GoToStage4
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GameStart
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 06f0fef534ca4c1d6064fd77a26bf722 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 780e8f682b3221346c034a6712a0fd25 UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -123,7 +132,7 @@ b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 afc5b93a7b192de2dcb3832fe35a5c7e Assembly-CSharp.dll:.Rotator
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
-27cf26466413db587808124df2678e84 Assembly-CSharp.dll:.Finish
+4ca1ad16d969a53edf5d4f1affe413b9 Assembly-CSharp.dll:.Finish
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 1dcb82730d983b77cec736c6ef19f814 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -146,6 +155,7 @@ e1300922cc039f41ab46a47f4cb05898 Unity.TextMeshPro.dll:TMPro.TMP_Settings
 7a25fcb81bf8eb2f157d591103c1dd7b UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.RemoteTestResultSender
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.TestResultRendererCallback
+4ca1ad16d969a53edf5d4f1affe413b9 Assembly-CSharp.dll:.GoToStage2
 931f489e44eadf809e9310429c99dde5 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioListenerExtension
 fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 5b0391b7e3d9ea9db6c0a8fbd0ca23f6 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
@@ -160,9 +170,13 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 97d315dcf1e05778ba5b1ab43be0067c Assembly-CSharp.dll:.GameController
 afc5b93a7b192de2dcb3832fe35a5c7e Assembly-CSharp.dll:.Camara
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
+4ca1ad16d969a53edf5d4f1affe413b9 Assembly-CSharp.dll:.GoToStage3
 df434544c9f7b33d1cc7e635b180d279 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GameStart
+29f4cd46fbcb081d7f580de776cedbd0 Assembly-CSharp.dll:.Billboarding
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GoToStage1
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.ReturnTitle
+4ca1ad16d969a53edf5d4f1affe413b9 Assembly-CSharp.dll:.GoToStage5
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GoToCredits
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Blink
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.GoToStory

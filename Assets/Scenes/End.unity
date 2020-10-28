@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 1333961015}
   - component: {fileID: 1333961014}
   m_Layer: 0
-  m_Name: ReturnTitle
+  m_Name: GoCredits
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -230,7 +230,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1333961013}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: af7c670088424304eb1ce46a426c9f70, type: 3}
+  m_Script: {fileID: 11500000, guid: eccde90527e8bcd4e8c54ca8762aca17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1333961015

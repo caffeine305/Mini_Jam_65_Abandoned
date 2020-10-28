@@ -13,7 +13,7 @@ public class Finish : MonoBehaviour
     void Start()
     {
         bannerPos = new Vector3(0.0f, 3.0f, 0.0f);
-        bannerRot = Quaternion.Euler(58, 58, 30);
+        bannerRot = Quaternion.Euler(30, 190, 0);
     }
 
     IEnumerator ChangeScene()

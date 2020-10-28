@@ -12,7 +12,7 @@ public class ReturnTitle : MonoBehaviour
 
     IEnumerator WaitAndReturnToTitle()
     {
-        yield return new WaitForSeconds(4);
+        yield return new WaitForSeconds(6);
         SceneManager.LoadScene("Title");
     }
 

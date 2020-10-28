@@ -54,15 +54,19 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Billboarding.cs" />
+     <Compile Include="Assets\Scripts\Blink.cs" />
      <Compile Include="Assets\Scripts\Camara.cs" />
      <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
      <Compile Include="Assets\Scripts\Finish.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\GameStart.cs" />
+     <Compile Include="Assets\Scripts\GoToCredits.cs" />
      <Compile Include="Assets\Scripts\GoToStage1.cs" />
      <Compile Include="Assets\Scripts\GoToStage2.cs" />
      <Compile Include="Assets\Scripts\GoToStage3.cs" />
      <Compile Include="Assets\Scripts\GoToStage4.cs" />
+     <Compile Include="Assets\Scripts\GoToStage5.cs" />
+     <Compile Include="Assets\Scripts\GoToStory.cs" />
      <Compile Include="Assets\Scripts\movimiento.cs" />
      <Compile Include="Assets\Scripts\ReturnTitle.cs" />
      <Compile Include="Assets\Scripts\Rotator.cs" />

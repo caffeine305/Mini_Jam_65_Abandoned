@@ -9,7 +9,7 @@ public class GameStart : MonoBehaviour
     {
         if (Input.GetButton("Fire1"))
         {
-            SceneManager.LoadScene("Story");
+            SceneManager.LoadScene("Controllers");
         }
     }
 }
